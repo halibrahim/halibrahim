@@ -44,6 +44,6 @@ I'd like to get in touch with the following topics
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fhalibrahim.halibrahim%2Freadme)
 
-### 🙋‍♂️ Pronouns: He/him
+#### 🙋‍♂️ Pronouns: He/him
 
 ![Engin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=halibrahim&show_icons=true)
