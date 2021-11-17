@@ -4,7 +4,7 @@ My name is Halil İbrahim Özdemir, I'm based in Turkey, Istanbul.
 
 ## 💼 Job
 
-I'm working as Software Lead in [Ofmark](https://www.ofmark.com/)
+I'm working as Software Consultant.
 
 ## 🧠 Know / Using
 
