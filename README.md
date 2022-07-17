@@ -18,7 +18,7 @@ I'm working as Software Consultant.
 
 - Frontend Technologies
 
-<img src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/jquery/jquery.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/angular/angular.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true" height="32" />
+<img src="https://github.com/github/explore/blob/main/topics/html/html.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/css/css.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/react/react.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/jquery/jquery.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/angular/angular.png?raw=true" height="32" /> <img src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png?raw=true" height="32" />
 
 - DevOps
 
